@@ -1,5 +1,6 @@
 # Python Based Docker
 FROM python:latest
+RUN gunicorn app:app & python3 main.py
 # Installing Packages
 RUN apt update && apt upgrade -y
 RUN apt install git curl python3-pip ffmpeg -y
