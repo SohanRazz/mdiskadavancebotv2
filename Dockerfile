@@ -10,8 +10,8 @@ COPY requirements.txt /requirements.txt
 # Installing Requirements
 RUN cd /
 RUN pip3 install -r requirements.txt
-RUN mkdir /mdiskadavancebot
-WORKDIR /mdiskadavancebot
+RUN mkdir /mdiskadavancebotv2
+WORKDIR /mdiskadavancebotv2
 COPY start.sh /start.sh
 # Running MessageSearchBot
 CMD ["/bin/bash","/start.sh"]
