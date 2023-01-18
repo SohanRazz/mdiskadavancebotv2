@@ -14,4 +14,4 @@ RUN mkdir /mdiskadavancebot
 WORKDIR /mdiskadavancebot
 COPY start.sh /start.sh
 # Running MessageSearchBot
-CMD ["/bin/bash", "/start.sh"]
+CMD ["/bin/bash","/start.sh"]
