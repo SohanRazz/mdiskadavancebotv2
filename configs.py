@@ -5,16 +5,16 @@ import os
 
 
 class Config(object):
-    API_ID = int(os.environ.get("API_ID", 12345))
-    API_HASH = os.environ.get("API_HASH", "")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    API_ID = int(os.environ.get("API_ID", "21948679"))
+    API_HASH = os.environ.get("API_HASH", "d1a9ac6ab9cfa0cefc908280c8a3cca1")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5604228803:AAFFgUJxp2jduf6H12qnknHWdGfQ7Ahvctc")
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "BQA4Qm_DfGisrKHBnPG3os-4ZqhSejkQ5NdlUmlzCoKSE4VBkdiufTn_3T1CGHt-qfV3XWCB0C1UvRWeCkrmBQAzlQoaBMyfBXNP0zvYCTpXrLzR9gZyMTCRypvanEiP9a4nGYv1IUJTnR8mC4lSNYRT-4Hz9desFHxtkmkb4bkQFVEZFkKcYN2DKQJ4M0yXX-N2QRORDEs-tvtL5bUJQGMqHVnfdu-u3c6bVS1faQAMtW_Rhm3LWnykngNHnTZLcGh2RyYNNH9s0wcXq0pVt6mFjb9yju0J7KtRj1JdR2lUeJ4RSdoX4_Ab150_Eht-FLb_mR_rmiLAkOnaOl-AisAAAAAVyYLBYA")
-    CHANNEL_ID = int(os.environ.get("CHANNEL_ID", -100))
-    BOT_USERNAME = os.environ.get("BOT_USERNAME")
-    BOT_OWNER = int(os.environ.get("BOT_OWNER"))
-    DATABASE_URL = os.environ.get("DATABASE_URL")
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
+    CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001836945914"))
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Mdisk_Movies_Searcher2_bot")
+    BOT_OWNER = int(os.environ.get("BOT_OWNER","5848443926"))
+    DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://Sohanrazz:Sohanrazz@cluster0.bjr2jrh.mongodb.net/?retryWrites=true&w=majority")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
     ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
 
     Devs: 
