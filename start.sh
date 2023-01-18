@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/SohanRazz/mdiskadavancebot
+git clonehttps://github.com/SohanRazz/mdiskadavancebot /mdiskadavancebot
 cd /mdiskadavancebot
-pip3 install -U -r requirements.txt
-echo "⚡️⚡️ Starting LazyUrlHunterrBOT..."
+pip3 install -r requirements.txt
+echo "Starting Bot...."
 python3 main.py
