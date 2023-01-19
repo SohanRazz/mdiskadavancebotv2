@@ -4,4 +4,4 @@ cd /mdiskadavancebotv2
 pip freeze > requirements.txt
 pip3 install -r requirements.txt
 echo "Starting BOT..."
-python3 main.py
+python main.py
