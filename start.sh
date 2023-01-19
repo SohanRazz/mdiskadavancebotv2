@@ -5,4 +5,4 @@ pip freeze > requirements.txt
 pip3 install -U -r requirements.txt
 pip freeze > main.py
 echo "Starting Bot...."
-python3 app.py
+python3 main.py
