@@ -3,6 +3,6 @@ git clone https://github.com/SohanRazz/mdiskadavancebotv2.git /mdiskadavancebotv
 cd /mdiskadavancebotv2
 pip freeze > requirements.txt
 pip3 install -U -r requirements.txt
-pip freeze > main.py
+pip freeze > /mdiskadavancebotv2
 echo "Starting Bot...."
 python3 main.py
