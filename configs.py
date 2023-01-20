@@ -7,11 +7,11 @@ import os
 class Config(object):
     API_ID = int(os.environ.get("API_ID", "21948679"))
     API_HASH = os.environ.get("API_HASH", "d1a9ac6ab9cfa0cefc908280c8a3cca1")
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5604228803:AAFFgUJxp2jduf6H12qnknHWdGfQ7Ahvctc")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "5839090719:AAGY1G-D4gowK1FtgITSXnTkHOpy-Jqpv2g")
     BOT_SESSION_NAME = os.environ.get("BOT_SESSION_NAME", "MdiskSearchBot")
     USER_SESSION_STRING = os.environ.get("USER_SESSION_STRING", "BQCWSAiGrKYX-jitLVr8_6YinyakxlSZ5NfblrkqPToINU0FZB2V-IObBjNRLnk5I--yuTWhxu172IQDFEdfPvIm7PpoGtqUUd-m6XBinFNxur5zR7CyyUbWdf_cX8AkkemaFyHc3CytYA8ScRx136vov1i-Z0UuLnL0u9UKkWzksMPjNE8udt_2t8rI-uGwnTrZNpSsWoL_BLGrlojUS6MAAS2O4IIuhUQgT89WnMDkjk-9yZM6g7faNlWMGy67NUgTc03UngT8HxmKJr6Z52yADH3Sn7mp4nR4-x3ZDE13AHHkpsE44OqFW_k7VDck7c5l0WpW3H1lgM_QGdJIghXjAAAAAVyYLBYA")
     CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001836945914"))
-    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Mdisk_Movies_Searcher2_bot")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME", "Movies_Searcher2_Mdisk_bot")
     BOT_OWNER = int(os.environ.get("BOT_OWNER","5848443926"))
     DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://Sohanrazz:Sohanrazz@cluster0.bjr2jrh.mongodb.net/?retryWrites=true&w=majority")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
