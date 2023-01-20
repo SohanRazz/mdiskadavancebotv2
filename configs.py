@@ -15,7 +15,7 @@ class Config(object):
     BOT_OWNER = int(os.environ.get("BOT_OWNER","5848443926"))
     DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://Sohanrazz:Sohanrazz@cluster0.bjr2jrh.mongodb.net/?retryWrites=true&w=majority")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
-    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
+    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/Movies_Searcher2_Mdisk_bot'>Movies Searcher Mdisk</a> is an open source project.
 
     Devs: 
         <a href='https://t.me/Sohan_Rajpurohit_1'>❤️ Sohan_Rajpurohit ❤️</a>
@@ -31,7 +31,7 @@ class Config(object):
 
 📡 Server 2: <a href='https://heroku.com'>koyeb</a> <i>comming soon</i>
 
-👨‍💻 Developer Channel: <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a></b>
+👨‍💻 Developer Channel: <a href='https://t.me/+FVhiCrwL2oJhMGFl'>Support Channel</a></b>
 """
 
     ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/Chat_admin_mdisk_bot'>Sohan_Rajpurohit</a>
