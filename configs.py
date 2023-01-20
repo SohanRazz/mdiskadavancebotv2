@@ -53,7 +53,7 @@ Don't be sad ! Your all urls are in safe Hand.
 
 
     START_MSG = """
-<b>Hello Baby ! {}😅,
+<b>Hello Hunter ! {}😅,
 
 I'm the one and only fastest URL & post finder BOT. Add me to any Group and Give me Hunting rights !!
 
