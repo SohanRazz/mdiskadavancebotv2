@@ -18,10 +18,10 @@ class Config(object):
     ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
 
     Devs: 
-        <a href='https://t.me/mRiderDM'>❤️ LazyDeveloper ❤️</a>
+        <a href='https://t.me/Sohan_Rajpurohit_1'>❤️ Sohan_Rajpurohit ❤️</a>
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/Netflix_Hindi_Movies_4K2'>Movies Searcher Mdisk Bot</a>
 
 📝 Language: <a href='https://www.python.org'>Python V3</a>
 
@@ -34,24 +34,21 @@ class Config(object):
 👨‍💻 Developer Channel: <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>
+    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/Chat_admin_mdisk_bot'>Sohan_Rajpurohit</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
 
     HOME_TEXT = """
-<b>Hello Baby ! {}😅,
+<b>Hello Dear ! {}😅,
 
 I'm the one and only fastest URL finder BOT. Add me to any Group and Give me Hunting rights !!
-
-I will be only yours if you will restrict adding me to other groups.
-Go to @BotFather to change settings.
 
 Don't be sad ! Your all urls are in safe Hand.
 
 »»» <b>Happy Hunting</b> «««
 
-🔺Thank You <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
+🔺Thank You <a href='https://t.me/Chat_admin_mdisk_bot'>Sohan_Rajpurohit</a>🔺 </b>
 """
 
 
