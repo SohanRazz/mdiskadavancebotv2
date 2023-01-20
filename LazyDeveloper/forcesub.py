@@ -14,7 +14,7 @@ async def ForceSub(bot: Client, cmd: Message):
         if user.status == "kicked":
             await bot.send_message(
                 chat_id=cmd.from_user.id,
-                text="Hello hunter ! I think you are Banned to use me. Request unban to [LazyDeveloper](https://t.me/mRiderDM).",
+                text="Hello hunter ! I think you are Banned to use me. Request unban to [Sohan_Rajpurohit](https://t.me/Chat_admin_mdisk_bot).",
                 parse_mode="markdown",
                 disable_web_page_preview=True
             )
@@ -48,7 +48,7 @@ async def ForceSub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Mere saamne jyada smart nhi banne ka sona 😂.\n »» Join Channel and be a Good Hunter.",
+            text="Mere saamne jyada smart nhi banne ka Bhai 😂.\n »» Join Channel and be a Good Hunter.",
             parse_mode="markdown",
             disable_web_page_preview=True
         )
